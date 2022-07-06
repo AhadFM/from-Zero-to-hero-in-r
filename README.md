@@ -13,6 +13,7 @@ This is a course designed by Batool Almarzouq and delivered in JeelAIDM
 - Hani Almohammadi
 - Buthynah
 - KHADEEJAH ALASLANI
+- Ahad AL-Dossri
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
